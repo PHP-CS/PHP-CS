@@ -22,4 +22,4 @@ git commit -am "Fix PHP coding standards issues" --author="PHP CS Fixer <csfixer
 git push
 ```
 
-This account is part of the [Refactoring.bot](https://Refactoring.bot) and is not affiliated with @PHP-CS-Fixer or @Symfony.
+This account is part of [The-Refactoring-Bot](https://github.com/the-refactoring-bot) and is not affiliated with [@PHP-CS-Fixer](https://github.com/PHP-CS-Fixer) or [@Symfony](https://github.com/symfony).
